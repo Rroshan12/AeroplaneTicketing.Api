@@ -1,0 +1,14 @@
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\bin\Debug\net6.0\AeroplaneTicketing.Data.deps.json
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\bin\Debug\net6.0\AeroplaneTicketing.Data.runtimeconfig.json
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\bin\Debug\net6.0\AeroplaneTicketing.Data.dll
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\bin\Debug\net6.0\AeroplaneTicketing.Data.pdb
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\obj\Debug\net6.0\AeroplaneTicketing.Data.csproj.AssemblyReference.cache
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\obj\Debug\net6.0\AeroplaneTicketing.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\obj\Debug\net6.0\AeroplaneTicketing.Data.AssemblyInfoInputs.cache
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\obj\Debug\net6.0\AeroplaneTicketing.Data.AssemblyInfo.cs
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\obj\Debug\net6.0\AeroplaneTicketing.Data.csproj.CoreCompileInputs.cache
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\obj\Debug\net6.0\AeroplaneTicketing.Data.dll
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\obj\Debug\net6.0\refint\AeroplaneTicketing.Data.dll
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\obj\Debug\net6.0\AeroplaneTicketing.Data.pdb
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\obj\Debug\net6.0\AeroplaneTicketing.Data.genruntimeconfig.cache
+C:\Users\Roshan\Desktop\OnlineCourse\Backend\AeroplaneTicketing.Data\obj\Debug\net6.0\ref\AeroplaneTicketing.Data.dll
